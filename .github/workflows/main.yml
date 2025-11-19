@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <title>若涵老师加油！</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+    body {
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Microsoft YaHei", sans-serif;
+      background: #fff7f8;
+    }
+    h1 {
+      font-size: 2.4rem;
+      margin-bottom: 1.5rem;
+      text-align: center;
+      color: #e94b64;
+    }
+    p {
+      font-size: 1.1rem;
+      margin-bottom: 1.2rem;
+      text-align: center;
+      color: #333;
+    }
+    .card {
+      background: #ffffff;
+      padding: 1.8rem 1.6rem 2rem;
+      border-radius: 18px;
+      box-shadow: 0 10px 25px rgba(0,0,0,0.08);
+      max-width: 420px;
+      width: 90%;
+      text-align: center;
+    }
+    img {
+      max-width: 100%;
+      height: auto;
+      margin-top: 1rem;
+    }
+    .footer {
+      margin-top: 1.2rem;
+      font-size: 0.9rem;
+      color: #888;
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+  <div class="card">
+    <h1>若涵老师加油啊啊啊啊啊！</h1>
+    <p>首考7.5已经很强啦，继续冲就更猛！💪</p>
+    <img src="shoukao7.5.png" alt="首考7.5 加油图" />
+    <div class="footer">来自神秘助攻团 ✨</div>
+  </div>
+</body>
+</html>
